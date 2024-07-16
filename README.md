@@ -1,5 +1,7 @@
 ## 1. The Nvidia drivers were as follows:
+```
 NVIDIA-SMI 440.33.01    Driver Version: 440.33.01    CUDA Version: 10.2
+```
 
 ## 2. The OS details were as follows:
 ```
@@ -14,4 +16,4 @@ $ uname -r
 ```
 
 ## 3. Python preferred version: 3.9.6
-## 4. vs code preferred version: 1.91.1
+## 4. VS Code preferred version: 1.91.1
